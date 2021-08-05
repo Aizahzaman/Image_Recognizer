@@ -1,0 +1,14 @@
+body{
+    background-color: darkcyan;
+}
+
+hr{
+    width: 200px;
+    height: 50px;
+}
+
+.items{
+    font-size: 20px;
+    color: darksalmon;
+}
+
